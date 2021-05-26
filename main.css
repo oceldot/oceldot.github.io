@@ -1,6 +1,6 @@
 header h1 {
-    color:green;
-    background-color: aqua;
+    color:rgb(26, 111, 209);
+    background-color: rgb(121, 208, 248);
 }
 
 header p {
@@ -12,3 +12,32 @@ footer {
     font-size: 10px;
     width: 980px;
 }
+
+ul a {
+    text-transform: uppercase;
+}
+
+ul {
+    
+  background-color: aliceblue;  
+}
+
+a:link {
+    color:#1982d8;
+  }
+  
+  /* visited link */
+  a:visited {
+    color: #1982d8;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: #1982d8;
+    text-decoration: none;
+  }
+  
+  /* selected link */
+  a:active {
+    color:#1982d8;
+  }
